@@ -23,9 +23,9 @@ setup_kwds = dict(
     version=version["__version__"],
     description=short_descr,
     long_description=readme + '\n\n' + history,
-    author="moi, ",
-    author_email="moi@email.com, ",
-    url='https://github.com/moi/py3djsx',
+    author="Christophe Pradal, Simon Artzet, ",
+    author_email="@pradal, @artzet-s, ",
+    url='https://github.com/Christophe Pradal/py3djsx',
     license='cecill-c',
     zip_safe=False,
 

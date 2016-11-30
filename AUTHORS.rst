@@ -6,7 +6,8 @@ Development Lead
 
 .. {# pkglts, doc
 
-* moi, <moi@email.com>
+* Christophe Pradal, <@pradal>
+* Simon Artzet, <@artzet-s>
 
 .. #}
 
